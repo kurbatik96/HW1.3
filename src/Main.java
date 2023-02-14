@@ -11,25 +11,25 @@ public class Main {
     }
     public static void task1() {
         System.out.println("Задача 1");
-        int i = 777777;
-        byte b = 77;
-        short s = 7777;
-        long l = 777777777;
-        float f = 3.77f;
-        double d = 77.777;
-        System.out.println(i+" "+b+" "+s+" "+l+" "+f+" "+d);
+        int intNumber = 777777;
+        byte byteNumber = 77;
+        short shNumber = 7777;
+        long longNumber = 777777777;
+        float floatNumber = 3.77f;
+        double doubleNumber = 77.777;
+        System.out.println(intNumber+" "+byteNumber+" "+shNumber+" "+longNumber+" "+floatNumber+" "+doubleNumber);
     }
 
     public static void task2() {
         System.out.println("Задача 2");
-      double d = 27.12;
-      long l = 987678965549L;
-      double d1 = 2.786;
-      short s = 569;
-      short s1 = -159;
-      int i1 = 27897;
-      byte b1 = 67;
-        System.out.println(d+" "+l+" "+d1+" "+s+" "+s1+" "+i1+" "+b1);
+     float floatNumber = 27.12f;
+      long longNumber = 987678965549L;
+      double doubleNumber = 2.786;
+      short shNumber = 569;
+      char chNumber = 159;
+      int intNumber = 27897;
+      byte byteNumber = 67;
+        System.out.println(floatNumber+" "+longNumber+" "+doubleNumber+" "+shNumber+" "+chNumber+" "+intNumber+" "+byteNumber);
     }
 
     public static void task3() {
